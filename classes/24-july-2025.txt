@@ -1,0 +1,64 @@
+Agenda:
+1. Recap
+
+Evaluation of AI
+Machine Learning
+Supervised
+Unsupervised
+Re-inforcement
+Linear /Non linear
+
+Deep Learning
+ANN,CNN,RNN- Various layers
+simulation of neural networks
+https://playground.tensorflow.org/
+
+3blue1brown
+
+Language Model
+Large Language Model
+
+-GenAI
+prompt engineering
+embedding
+text generation 
+image generation with the help of a prompt
+huggingface
+Model,data,spacers
+
+RAG - Retrieval Augment Generation
+
+Company - collect specific information about a company
+in the form of pdf,text file web url
+and create a interface to upload data
+Stored in Vector data base
+
+How many students got admission in CSE department in 2024
+this information with the embedding is sent to llm
+
+
+Agent
+Webagent
+Travelagent
+Yahoofinancial
+workflow
+
+AgenticAI
+
+break
+
+Agents
+
+https://www.agno.com/
+https://docs.agno.com/introduction
+
+https://docs.agno.com/introduction/agents
+
+
+
+
+
+
+2. AI Agents
+3. Agentic framework
+Agno,CrewAI,LangSmith,Autogen
