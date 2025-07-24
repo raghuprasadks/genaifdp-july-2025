@@ -1,0 +1,17 @@
+streamlit
+openai
+dotenv
+langchain
+pandas
+chromadb
+PyPDF2
+sounddevice
+soundfile
+pandas 
+matplotlib 
+seaborn
+moviepy
+ffmpeg
+music21
+midi2audio
+pydub

@@ -1,0 +1,32 @@
+https://poloclub.github.io/transformer-explainer/
+https://poloclub.github.io/diffusion-explainer/
+https://poloclub.github.io/cnn-explainer/
+https://docs.agno.com/examples/getting-started/introduction
+
+https://www.youtube.com/watch?v=-kSOTtYzgEw
+https://docs.crewai.com/en/installation
+
+serper.dev
+
+
+
+crew.py
+from crewai import SerperDevTool
+
+
+under research
+
+tools=[SerperDevTool],
+
+
+crewai install
+
+crewai run
+
+
+uvadd <tool>
+
+
+https://www.youtube.com/watch?v=ppE1CXhRNF8
+
+https://github.com/tonykipkemboi/resume-optimization-crew

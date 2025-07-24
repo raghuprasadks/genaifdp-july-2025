@@ -1,0 +1,67 @@
+Language Model
+Large Language Model (LLM)
+
+Step 1 : Read a paragraph
+Step 2 : Extract words/token from paragraph
+Step 3 : Give some number to the token
+
+I am learning Generative AI
+
+Step 4 : Embedding
+
+king = [0.8,0.2,0.9]
+positional embedding
+embed = [.7,0.6,.9]
+
+Step 5 : Transformers
+Attention is all you need
+
+Dog is a animal
+All dogs are animals
+All animals are not dogs
+
+step 6 : feed forward neural network
+
+Break
+
+Simulation
+https://poloclub.github.io/transformer-explainer/
+
+Prompt engineering
+using chatgpt create a presentation on
+any topic which you teach your students
+also generate 10 mcq question with answer on that
+
+
+
+import openai
+
+openai.api_key = "your-api-key"
+
+response = openai.ChatCompletion.create(
+  model="gpt-3.5-turbo",
+  messages=[
+      {"role": "user", "content": "Write a short story about a robot who learns to sing"}
+  ]
+)
+
+print(response['choices'][0]['message']['content'])
+
+
+Google colab
+
+visual studio code
+python
+
+https://huggingface.co/
+
+https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct?client=huggingface_hub
+
+
+
+
+
+
+
+
+
